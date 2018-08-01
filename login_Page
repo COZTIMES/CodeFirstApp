@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Login Page</title>
+</head>
+<body>
+<h1>Welcome to COZTIME!</h1>
+<div>
+Name 
+Password
+</div>
+</body>
+</html>
